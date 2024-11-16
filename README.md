@@ -94,10 +94,11 @@ _(Here you can include images/screenshots of your app)_
 - [Antony Wanjiru](https://github.com/tonyephy) – *Software Developer*
 
 ---
-## 📧 **Contact**
+## 📞 Contact
+For questions, feedback, or support, feel free to reach out:
 
-For any inquiries, feel free to reach out to us at [your.email@example.com](mailto:your.email@example.com).
-
+- **Email**: [tonylvan77@gmail.com](mailto:tonylvan77@gmail.com)
+- **Paypal Email**: [antonywanjiru7777@gmail.com](mailto:antonywanjiru7777@gmail.com)
 ---
 
 ### **Thank You for Using Crime Analysis App!**
